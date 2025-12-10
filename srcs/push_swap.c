@@ -6,7 +6,7 @@
 /*   By: gpatrici <gpatrici@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/12/09 16:07:07 by gpatrici          #+#    #+#             */
-/*   Updated: 2025/12/09 16:33:23 by gpatrici         ###   ########.fr       */
+/*   Updated: 2025/12/10 20:41:20 by gpatrici         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,6 +14,6 @@
 
 int	main(void)
 {
-	ft_printf("Hello, push_swap!\n");
+	ft_printf("Hello, my name is %s and I'm %i yo.\n", "Doodle", 18);
 	return (0);
 }
